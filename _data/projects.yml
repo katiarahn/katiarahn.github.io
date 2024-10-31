@@ -1,0 +1,49 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: Life Skills Class
+  role: Instructor
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: Developed and taught a curriculum covering essential skills, including budgeting, time management, and conflict resolution, to over 40 high school students.  Adapted lessons based on feedback to create a collaborative and practical learning environment.
+
+- project: Spirit Committee
+  role: Leader
+  duration: 2024 &mdash; Present
+  # url: "#"
+  description: Designed and implemented creative strategies to boost school spirit, leading to a 35% increase in event participation. Managed media platforms to promote events, creating a more connected and positive school community.
+
+- project: Student Council
+  role: Communications Director
+  duration: 2023 &mdash; Present
+  # url: "#"
+  description: Elected by peers; developed initiatives to improve communication between the student body and council, enhancing transparency and engagement. Launched successful campaigns promoting school events and initiatives, increasing overall student participation.
+
+- project: Soccer & Volleyball Teams
+  role: Captain / Co-Captain
+  duration: 2022 &mdash; Present
+  # url: "#"
+  description: Led teams to success in international competitions, securing 1st place in soccer and top 4 in volleyball (Central and Eastern European Schools Association, CEESA). Directed practices, developed game strategies, and motivated teammates, building teamwork and resilience.
+
+- project: Knowledge Bowl
+  role: Captain
+  duration: 2022 &mdash; Present
+  # url: "#"
+  description: Led the team in two international academic competitions, excelling in subjects such as geography, anatomy, and animal trivia. Coordinated study sessions and mentored new members, improving team performance and cohesion.
+
+- project:  Linguistics Olympiad
+  role: Competitor
+  duration: 2021 &mdash; 2024
+  # url: "#"
+  description: Mastered syntax, phonology, and language decoding through participation in four regional competitions. Demonstrated skills in problem-solving and linguistic analysis.
+
+- project:  Trap-Neuter-Return (TNR) Initiative
+  role: Founder
+  duration: 2020 &mdash; Present
+  # url: "#"
+  description: Established and expanded a volunteer program across multiple cities; partnered with organizations like the San Francisco SPCA to support animal welfare. Organized fundraisers and awareness campaigns, helping to reduce stray animal populations and promoting humane treatment.
+
+- project: 'You Are Not Alone' 
+  role: Volunteer Team Leader
+  duration: 2021 &mdash; Present
+  description: Coordinated food deliveries for 50+ elderly individuals, providing social interaction and assistance with basic tasks. Organized and marketed food drives, increasing community support for vulnerable populations.
