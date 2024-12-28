@@ -1,0 +1,17 @@
+git commit --amend --author="Katia Rahn <katiarahn@users.noreply.github.com>" --no-edit
+
+git push -f origin gh-pages
+
+git config user.name "Katia Rahn"
+git config user.email "katiarahn@users.noreply.github.com"
+
+
+git checkout --orphan latest_branch
+git add -A
+git commit -am "commit"
+git branch -D gh-pages
+git branch -m gh-pages
+git push -f origin gh-pages
+
+
+https://github.com/katiarahn/katiarahn.github.io/deployments?environment=github-pages#activity-log
